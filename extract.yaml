@@ -1,0 +1,3 @@
+tours:
+  # displaytimer is the id of the next tour h1 in HTML Code
+  css: '#displaytimer'
